@@ -3,7 +3,9 @@
 
 # Features 
   **Responsive Design**: Ensures the 404 page looks good on all devices, including desktops, tablets, and mobile phones.
+  
   **Interactive Elements**: Utilizes JavaScript to add interactive features, enhancing the user experience.
+  
   **Custom Styling**: Unique and aesthetically pleasing design using CSS.
 
 # Technologies Used 
